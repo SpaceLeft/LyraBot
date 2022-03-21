@@ -1,0 +1,8 @@
+{
+  "name": "LyraBot",
+  "version": "1.0.1",
+  "description": "Adorable shipgirl music bot that will spice up your guild",
+  "main": "index.js",
+  "keywords": [],
+  "erela.js": "^2.3.3",
+}
